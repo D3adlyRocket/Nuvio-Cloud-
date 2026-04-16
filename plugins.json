@@ -1,158 +1,120 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/Cinemacity.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/Cinemacity.cs3",
         "status": 1,
         "version": 5,
         "name": "Cinemacity",
         "internalName": "Cinemacity",
-        "authors": [
-            "Phisher98"
-        ],
+        "authors": ["Phisher98"],
         "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
         "fileSize": 39839,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "tvTypes": ["Movie", "TvSeries"],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Cinemacity.png",
         "apiVersion": 1,
         "fileHash": "sha256-df5c005a3258103fa38a05189359fb8914aef76d85ca08d02940805703520bed"
     },
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/Coflix.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/Coflix.cs3",
         "status": 1,
         "version": 13,
         "name": "Coflix",
         "internalName": "Coflix",
-        "authors": [
-            "Phisher98"
-        ],
+        "authors": ["Phisher98"],
         "description": "Movies,Series and Anime French Extension ",
         "fileSize": 35136,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "fr",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "tvTypes": ["Movie", "TvSeries"],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
         "apiVersion": 1,
         "fileHash": "sha256-415f82f09ebae335d40a2569047df167a0c131dbb33355613cbdb4acbb2b3864",
         "jarFileSize": 150054,
-        "jarUrl": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/Coflix.jar",
+        "jarUrl": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/Coflix.jar",
         "jarHash": "sha256-04b34c86869fb79a7efdcf84c59339627ef6be53bba638c72806ef6ee6b24c1c"
     },
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/Fibwatch.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/Fibwatch.cs3",
         "status": 1,
         "version": 4,
         "name": "Fibwatch",
         "internalName": "Fibwatch",
-        "authors": [
-            "Phisher98"
-        ],
+        "authors": ["Phisher98"],
         "fileSize": 39928,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "tvTypes": ["Movie", "TvSeries"],
         "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
         "apiVersion": 1,
         "fileHash": "sha256-acf664dc233ddf6019cc9c2d7cc1bc2bfb3483ebc37da28aa30bd29d1c9427c0"
     },
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/FourKHDHub.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/FourKHDHub.cs3",
         "status": 1,
         "version": 31,
         "name": "FourKHDHub",
         "internalName": "FourKHDHub",
-        "authors": [
-            "Phisher98"
-        ],
+        "authors": ["Phisher98"],
         "description": "4K Movies Extension by HDHUB4U",
         "fileSize": 66695,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "en",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "tvTypes": ["Movie", "TvSeries"],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
         "apiVersion": 1,
         "fileHash": "sha256-98360f1e5cc6a263d95bdc910d524d054ec856127da7c769e50dd7e63d6a4aff"
     },
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/HDhub4u.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/HDhub4u.cs3",
         "status": 1,
         "version": 44,
         "name": "HDhub4u",
         "internalName": "HDhub4u",
-        "authors": [
-            "Phisher98"
-        ],
+        "authors": ["Phisher98"],
         "fileSize": 79946,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "apiVersion": 1,
         "fileHash": "sha256-71ca942b12acb85f371c8c4e64a299190b612165fb6f187eec4a5beafc72ebb9"
     },
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/KisskhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/KisskhProvider.cs3",
         "status": 1,
         "version": 18,
         "name": "KisskhProvider",
         "internalName": "KisskhProvider",
-        "authors": [
-            "Phisher98,Hexated,Peerless"
-        ],
+        "authors": ["Phisher98,Hexated,Peerless"],
         "fileSize": 38189,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "en",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
-        ],
+        "tvTypes": ["AsianDrama", "TvSeries", "Anime", "Movie"],
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-f9c1c9dc48b5d34a41a35ef7d95a619a4ee916fd9d597fcfa4f7bd91961eddb1",
         "jarFileSize": 151639,
-        "jarUrl": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/KisskhProvider.jar",
+        "jarUrl": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/KisskhProvider.jar",
         "jarHash": "sha256-86637b682cfcdb7d2040a513ec8411afb2bd4f2f3e455a426108df46e40d4b30"
     },
     {
-        "url": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/OneTouchTV.cs3",
+        "url": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/OneTouchTV.cs3",
         "status": 1,
         "version": 1,
         "name": "OneTouchTV",
         "internalName": "OneTouchTV",
-        "authors": [
-            "Phisher98"
-        ],
+        "authors": ["Phisher98"],
         "description": "Asian Dramas",
         "fileSize": 37144,
-        "repositoryUrl": "https://github.com/D3adlyRocket/Nuvio-Cloud-",
+        "repositoryUrl": "https://github.com/D3adlyRocket/Asian-Nuvio-Cloud",
         "language": "en",
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries"
-        ],
+        "tvTypes": ["AsianDrama", "TvSeries"],
         "iconUrl": "https://www.google.com/s2/favicons?domain=onetouchtv.xyz/&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-d85e36611852af3ec7212bd87ee38ed13bd6152acaf0eb4afd5fb608bd6a55bb",
         "jarFileSize": 166562,
-        "jarUrl": "https://raw.githubusercontent.com/D3adlyRocket/Nuvio-Cloud-/builds/OneTouchTV.jar",
+        "jarUrl": "https://raw.githubusercontent.com/D3adlyRocket/Asian-Nuvio-Cloud/builds/OneTouchTV.jar",
         "jarHash": "sha256-a1a7fecb0c57cf77a95210bbe0cd563bfbe708147b67daa3f99dcba7d48d5828"
     }
 ]
