@@ -1,7 +1,7 @@
 {
-    "name": "Phisher Repo",
+    "name": "D3adly Compiled Repo",
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
-    "description": "Phisher Repository",
+    "description": "Asian Drama compiled by D3adly",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json"
